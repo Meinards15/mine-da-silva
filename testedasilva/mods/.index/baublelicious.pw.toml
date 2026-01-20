@@ -1,0 +1,17 @@
+filename = 'baublelicious-1.7.10-1.2.2-final.jar'
+name = 'Baublelicious'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Baublelicious v1.2.2-final'
+
+[download]
+hash = 'd45ade45b3e61880d7a61d74a94f5b894cab05e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2356498
+project-id = 223951

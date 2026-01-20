@@ -1,0 +1,17 @@
+filename = 'DragonBlockC-v1.4.85.jar'
+name = 'JinGames Dragon Block C'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Dragon Block C v1.4.85 [1.7.10]'
+
+[download]
+hash = '4d5d2ae7016be49c0d47aa9e54adada8fc3f27ab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4523119
+project-id = 497518

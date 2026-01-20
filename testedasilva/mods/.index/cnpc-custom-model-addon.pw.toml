@@ -1,0 +1,17 @@
+filename = 'npcgecko-1.2.jar'
+name = 'CNPC+ Gecko Addon'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NPC Gecko 1.2'
+
+[download]
+hash = '24ef333be1ceaeb2573d9b880cc07dcf56c58a80'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6596721
+project-id = 989940

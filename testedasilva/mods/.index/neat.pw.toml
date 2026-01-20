@@ -1,0 +1,17 @@
+filename = 'Neat 1.0-1.jar'
+name = 'Neat'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Neat 1.0-1.jar'
+
+[download]
+hash = 'efb6219d83e6ec1fdb5a9625acc79b1fad723248'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2268525
+project-id = 238372

@@ -1,0 +1,17 @@
+filename = 'CodeChickenCore-1.7.10-1.0.7.48-universal.jar'
+name = 'CodeChickenCore'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'CodeChickenCore-1.7.10-1.0.7.48-universal.jar'
+
+[download]
+hash = '42340568aa6c7d6a9333e30540d4a9803d262f5d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3293859
+project-id = 222213

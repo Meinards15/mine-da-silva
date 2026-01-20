@@ -1,0 +1,17 @@
+filename = 'JFamilyC-v1.2.18.jar'
+name = 'JinGames Family C'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Family C v1.2.18 [1.7.10]'
+
+[download]
+hash = 'a9f1d12767d1b168c0e1397346f73649741be249'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4176006
+project-id = 497526

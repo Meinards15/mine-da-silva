@@ -1,0 +1,17 @@
+filename = 'Born in a Barn 1.7.x.jar'
+name = 'Born in a Barn'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10', '1.7.2', '1.7.4', '1.7.5', '1.7.6', '1.7.7', '1.7.8', '1.7.9' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Born In A Barn V1.7.x-1.1'
+
+[download]
+hash = '39066278edbcd8efb8c50226570b24290c58d9f8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2531565
+project-id = 285789

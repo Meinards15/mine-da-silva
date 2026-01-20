@@ -1,0 +1,17 @@
+filename = 'JYearsC-v1.2.5.jar'
+name = 'JinGames Years C'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Years C v1.2.5 [1.7.10]'
+
+[download]
+hash = '7e5eefc9d5c14a3f1c2c3310d60c56809a7ec7a6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3363798
+project-id = 497527

@@ -1,0 +1,17 @@
+filename = 'etfuturum-2.6.2.jar'
+name = 'Et Futurum Requiem'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Et Futurum Requiem 2.6.2'
+
+[download]
+hash = 'fe3e94eed1d7432122f0551d070fd385335fa629'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5873837
+project-id = 441392

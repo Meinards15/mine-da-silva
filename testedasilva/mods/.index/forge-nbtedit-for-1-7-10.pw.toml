@@ -1,0 +1,17 @@
+filename = 'ForgeNBTEdit-universal-1.0.0.test.jar'
+name = 'Forge NBTEdit In Game'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ForgeNBTEdit-universal-1.0.0.test.jar'
+
+[download]
+hash = '765f4ab7877abaec9113848eb828ced8314c4c0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2949679
+project-id = 381388

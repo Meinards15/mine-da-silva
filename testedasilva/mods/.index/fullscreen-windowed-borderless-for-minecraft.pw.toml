@@ -1,0 +1,17 @@
+filename = 'FullscreenWindowed-1.7.10-1.3.0b.jar'
+name = 'Fullscreen Windowed (Borderless) for Minecraft'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fullscreen Windowed 1.3.0b for MC 1.7.10'
+
+[download]
+hash = 'a58a1855f2c97078b4d6231222ab899a93cbbc15'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2317743
+project-id = 227441

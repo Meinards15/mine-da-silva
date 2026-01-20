@@ -1,0 +1,17 @@
+filename = 'geckolib-unofficial-1.7.10-1.0.3.jar'
+name = 'Geckolib-Unofficial'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'geckolib-unofficial-1.7.10-1.0.3'
+
+[download]
+hash = 'c3071640a04cb8304c3689fc524f4edf9b38bca0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5250876
+project-id = 989311

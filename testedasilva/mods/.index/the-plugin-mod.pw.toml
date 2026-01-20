@@ -1,0 +1,17 @@
+filename = 'PluginMod-5.3.jar'
+name = 'The Plugin Mod'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Plugin Mod V 5.3'
+
+[download]
+hash = '38a80b41a888d19dbd1855d9edfc79397d8b7b08'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6400871
+project-id = 932934

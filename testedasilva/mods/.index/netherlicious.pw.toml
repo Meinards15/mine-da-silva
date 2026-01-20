@@ -1,0 +1,17 @@
+filename = 'netherlicious-3.2.8.jar'
+name = 'Netherlicious'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'netherlicious-3.2.8.jar'
+
+[download]
+hash = '94b167c17730c244f95cd1602e3e16d6e70d6678'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4363437
+project-id = 385860

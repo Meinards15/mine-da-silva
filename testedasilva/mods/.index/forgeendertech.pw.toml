@@ -1,0 +1,17 @@
+filename = 'ForgeEndertech-1.7.10-1.9.2.0-build.0061.jar'
+name = 'ForgeEndertech'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ForgeEndertech-1.7.10-1.9.2.0-build.0061.jar'
+
+[download]
+hash = 'af73aa300419a1c3ede2e19c5fe410f02dfda9df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2432334
+project-id = 244844

@@ -1,0 +1,17 @@
+filename = 'MmmMmmMmmMmm-1.7.10-1.9.jar'
+name = 'MmmMmmMmmMmm (Target Dummy)'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MmmMmmMmmMmm-1.7.10-1.9.jar'
+
+[download]
+hash = '8d61af07af91064c115a4ea2c57deba44a936d13'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2265493
+project-id = 225738

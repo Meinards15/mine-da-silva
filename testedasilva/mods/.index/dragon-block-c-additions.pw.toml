@@ -1,0 +1,17 @@
+filename = 'DBCAdditions-1.74.jar'
+name = 'Dragon Block C Additions'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DBCAdditions-1.74.jar'
+
+[download]
+hash = '2e6d57b9465eeffe07ee4b71014ff47709981430'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6737304
+project-id = 1170332

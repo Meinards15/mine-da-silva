@@ -1,0 +1,17 @@
+filename = 'Anti-Gravity-Mod-1.7.10.jar'
+name = 'Anti-gravity-mod'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'mod'
+
+[download]
+hash = '91898136a2a2d41b02411de497a6e414d4a2051d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2865795
+project-id = 359538

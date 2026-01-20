@@ -1,0 +1,17 @@
+filename = 'neiaddons-1.12.14.40-mc1.7.10.jar'
+name = 'NEI Addons'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neiaddons-1.12.14.40-mc1.7.10.jar'
+
+[download]
+hash = 'caf51bb104d309bc8a51d4dffc621f48aaa9e0ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2262120
+project-id = 63352

@@ -1,0 +1,17 @@
+filename = 'WailaHarvestability-mc1.7.10-1.1.6.jar'
+name = 'Waila Harvestability'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'WailaHarvestability-mc1.7.10-1.1.6.jar'
+
+[download]
+hash = '3dee679f808fc8cc564c94a674a18ed3d497afdf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2270923
+project-id = 79287

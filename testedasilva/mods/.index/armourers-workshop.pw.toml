@@ -1,0 +1,17 @@
+filename = 'Armourers-Workshop-1.7.10-0.48.5.jar'
+name = "Armourer's Workshop"
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Armourers-Workshop-1.7.10-0.48.5.jar'
+
+[download]
+hash = 'bd7f58d9d9d25bdd613442eb049ed54f127b3123'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3005075
+project-id = 229523

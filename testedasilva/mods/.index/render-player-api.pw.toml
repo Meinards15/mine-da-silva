@@ -1,0 +1,17 @@
+filename = 'RenderPlayerAPI-1.7.10-1.4.jar'
+name = 'Render Player API'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Render Player API version 1.4 for Minecraft 1.7.10'
+
+[download]
+hash = '26251279aa136ec29f7aa6606d47e60be9c700e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2248933
+project-id = 228981

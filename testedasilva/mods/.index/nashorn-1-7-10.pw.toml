@@ -1,0 +1,17 @@
+filename = 'nashorn.jar'
+name = 'Nashorn (Custom NPCS ECMAScript)'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Nashorn'
+
+[download]
+hash = '1cfdb3f2b8d258e09df5740df06c4403e97aa353'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2924946
+project-id = 374413

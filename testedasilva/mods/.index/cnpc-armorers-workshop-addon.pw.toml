@@ -1,0 +1,17 @@
+filename = 'npcaw-1.2.jar'
+name = "CNPC+ Armorer's Workshop Addon"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NPC AW 1.2'
+
+[download]
+hash = '1c4179bb47abd40aa85cad564e23f6592e688c49'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6596716
+project-id = 989536

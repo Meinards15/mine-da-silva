@@ -1,0 +1,17 @@
+filename = 'JBRA-Client-v1.6.52.jar'
+name = 'JinGames JBRA Client'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = ' JBRA Client v1.6.52 [1.7.10]'
+
+[download]
+hash = 'be242f62ad2768e205402adc6dc6db9214716a6d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4505635
+project-id = 497511

@@ -1,0 +1,17 @@
+filename = 'NBArmors-3.1.jar'
+name = 'NBArmors'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NBArmors 3.1fix'
+
+[download]
+hash = '08a24a364446e2542cc17d3a3ede5c3a203b16af'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5997618
+project-id = 619528

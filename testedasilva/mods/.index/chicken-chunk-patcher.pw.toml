@@ -1,0 +1,17 @@
+filename = 'Chicken Chunk Patcher 1.1.jar'
+name = 'Chicken Chunk Patcher'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Chicken Chunk Patcher 1.1'
+
+[download]
+hash = '09cab8c2ae17850cb465bb44066e56ac780d8799'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2518745
+project-id = 285063

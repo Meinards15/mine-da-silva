@@ -1,0 +1,17 @@
+filename = 'FpsReducer-mc1.7.10-1.10.3.jar'
+name = 'FPS Reducer'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FpsReducer-mc1.7.10-1.10.3.jar'
+
+[download]
+hash = '05782dc663eec3a38c920400f96c43e8c8be6dcb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2627303
+project-id = 280294

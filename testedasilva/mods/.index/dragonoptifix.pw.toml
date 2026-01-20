@@ -1,0 +1,17 @@
+filename = 'DragonOptiFix-1.0.jar'
+name = 'DragonOptiFix'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DragonOptiFix-1.0'
+
+[download]
+hash = '3e5fbdddf37b92478bc684443c0e18a7a1992532'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5600884
+project-id = 1078566

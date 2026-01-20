@@ -1,0 +1,17 @@
+filename = 'IguanaTinkerTweaks-1.7.10-2.1.6.jar'
+name = 'Iguanas Tinker Tweaks'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'IguanaTinkerTweaks-1.7.10-2.1.6.jar'
+
+[download]
+hash = '7a7446ad042d8e8b80dde7ffb1ca1dad80bf2de5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2288329
+project-id = 223248

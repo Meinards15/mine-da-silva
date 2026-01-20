@@ -1,0 +1,17 @@
+filename = 'journeymap-1.7.10-5.2.9-unlimited.jar'
+name = 'JourneyMap'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'journeymap-1.7.10-5.2.9'
+
+[download]
+hash = 'da8110486ba3dd5651ec6682db42eaf20ef1a0d3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6519073
+project-id = 32274

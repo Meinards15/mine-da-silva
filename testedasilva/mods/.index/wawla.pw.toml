@@ -1,0 +1,17 @@
+filename = 'Wawla-1.0.5.120.jar'
+name = 'Wawla - What Are We Looking At'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Wawla-1.7.10-1.0.5.120.jar'
+
+[download]
+hash = '85fb074320b2cacb1dec790ab894f7d57a67b2ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2298772
+project-id = 224712

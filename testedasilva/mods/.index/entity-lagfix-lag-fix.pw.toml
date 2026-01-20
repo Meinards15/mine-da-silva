@@ -1,0 +1,17 @@
+filename = 'LagFix-2.0.1-mc1.7.10-forge.jar'
+name = 'Entity LagFix / Lag Fix'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'LagFix-2.0.1-mc1.7.10-forge.jar'
+
+[download]
+hash = '8aecfad3db53787535642ca8bab15887a38ff11a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2256180
+project-id = 235864

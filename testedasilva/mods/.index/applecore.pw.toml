@@ -1,0 +1,17 @@
+filename = 'AppleCore-mc1.7.10-3.1.1.jar'
+name = 'AppleCore'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AppleCore-mc1.7.10-3.1.1.jar'
+
+[download]
+hash = 'fc44d26fc7ae411b79ebd88a818362aade2171c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2530879
+project-id = 224472

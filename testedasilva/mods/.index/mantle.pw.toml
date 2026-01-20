@@ -1,0 +1,17 @@
+filename = 'Mantle-1.7.10-0.3.2b.jar'
+name = 'Mantle'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Mantle-1.7.10-0.3.2b.jar'
+
+[download]
+hash = '56552968dc8df9a3ad0f909024d086f3748844dc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2264244
+project-id = 74924

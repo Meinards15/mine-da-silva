@@ -1,0 +1,17 @@
+filename = 'FoamFix-1.7.10-universal-1.0.4.jar'
+name = 'Foam​Fix'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FoamFix 1.0.4 (1.7.10)'
+
+[download]
+hash = 'a32624a456d2fab26241df30c1612558710202f3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4473363
+project-id = 278494

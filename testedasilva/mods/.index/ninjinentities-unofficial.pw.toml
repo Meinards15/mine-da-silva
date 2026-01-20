@@ -1,0 +1,17 @@
+filename = 'ninjinentities-Unofficial-1.4.3.jar'
+name = 'ninjinentities-Unofficial'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ninjinentities-Unofficial-1.4.3.jar'
+
+[download]
+hash = 'fc9620384afcc67f8098841ec5a11d11783319a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6769034
+project-id = 1075723

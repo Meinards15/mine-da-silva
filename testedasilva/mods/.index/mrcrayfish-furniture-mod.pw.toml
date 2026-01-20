@@ -1,0 +1,17 @@
+filename = 'MrCrayfishFurnitureModv3.4.7(1.7.10).jar'
+name = "MrCrayfish's Furniture Mod (Legacy)"
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MrCrayfishFurnitureModv3.4.7(1.7.10).jar'
+
+[download]
+hash = '3dcfe1321c091e0cb93103e46d19b994df49c1f8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2221679
+project-id = 55438
